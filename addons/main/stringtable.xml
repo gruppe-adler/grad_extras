@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="gruppe_adler_mod">
+<Project name="gruppe_adler_mod_extras">
     <Package name="Main">
         <Key ID="STR_grad_Author">
             <English>Gruppe Adler</English>
