@@ -1,10 +1,10 @@
-name = "Gruppe Adler Mod";
+name = "Gruppe Adler Mod Extras";
 author = "Gruppe Adler";
 picture = "Adler_w_2.paa";
 actionName = "Website";
 action = "https://www.gruppe-adler.de/";
-description = "Gruppe Adler Mod";
+description = "Gruppe Adler Mod Extras";
 logo = "Adler_64.paa";
 logoOver = "Adler_w_64.paa";
-tooltip = "Gruppe Adler Mod";
-overview = "Gruppe Adler Mod contains an assortment of addons that modify existing mods or add new functionality.";
+tooltip = "Gruppe Adler Mod Extras";
+overview = "Gruppe Adler Mod Extras that have RHS or TFAR dependencies.";

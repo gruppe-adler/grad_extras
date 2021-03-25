@@ -6,6 +6,12 @@
 
 Gruppe Adler Mod is a collection of Gruppe Adler original addons that add new functionality or modify and improve existing functionality to suit our Arma gameplay.
 
+## Dependencies
+TFAR
+RHS
+ACE3
+CBA
+
 ## For Developers
 
 We're using [HEMTT](https://github.com/synixebrett/HEMTT)

@@ -18,7 +18,7 @@ key_name = "{{prefix}}_{{version}}"
 authority = "{{prefix}}_{{version}}-{{git \"id 8\"}}"
 
 releasebuild = [
-    "@zip gruppe_adler_mod_{{semver.major}}.{{semver.minor}}.{{semver.patch}}"
+    "@zip gruppe_adler_mod_extras_{{semver.major}}.{{semver.minor}}.{{semver.patch}}"
 ]
 
 [header_exts]
