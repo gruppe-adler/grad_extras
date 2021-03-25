@@ -1,5 +1,5 @@
-name = "Gruppe Adler Mod"
-modname = "gruppe_adler_mod"
+name = "Gruppe Adler Mod Extras"
+modname = "gruppe_adler_mod_extras"
 prefix = "grad"
 author = "Gruppe Adler"
 files = [
