@@ -309,7 +309,7 @@ class grad_u_combatFatigues_green_black: U_I_E_Uniform_01_tanktop_F
 		author = "Synch";
 		scope = 1; //WIP
 		displayName = "Carrier Light (OCP)";
-		hiddenSelectionsTextures[] = {"x\grad\addons\kit\data\vests\grad_V_CarrierLight_OCP_co.paa"};
+		hiddenSelectionsTextures[] = {"x\GRAD_MOD_EXTRAS\addons\kit\data\vests\grad_V_CarrierLight_OCP_co.paa"};
 	};
 
 	class grad_v_modularCarrier_light_black: V_CarrierRigKBT_01_light_Olive_F
@@ -317,7 +317,7 @@ class grad_u_combatFatigues_green_black: U_I_E_Uniform_01_tanktop_F
 		author = "Synch";
 		scope = 1; //WIP
 		displayName = "Modular Carrier Light (Black)";
-		hiddenSelectionsTextures[] = {"x\grad\addons\kit\data\vests\modularCarrier\grad_v_modularCarrier_black_co.paa"};
+		hiddenSelectionsTextures[] = {"x\GRAD_MOD_EXTRAS\addons\kit\data\vests\modularCarrier\grad_v_modularCarrier_black_co.paa"};
 	};
 
 	class grad_v_modularCarrier_black: V_CarrierRigKBT_01_Olive_F
@@ -325,7 +325,7 @@ class grad_u_combatFatigues_green_black: U_I_E_Uniform_01_tanktop_F
 		author = "Synch";
 		scope = 1; //WIP
 		displayName = "Modular Carrier (Black)";
-		hiddenSelectionsTextures[] = {"x\grad\addons\kit\data\vests\modularCarrier\grad_v_modularCarrier_black_co.paa"};
+		hiddenSelectionsTextures[] = {"x\GRAD_MOD_EXTRAS\addons\kit\data\vests\modularCarrier\grad_v_modularCarrier_black_co.paa"};
 	};
 
 

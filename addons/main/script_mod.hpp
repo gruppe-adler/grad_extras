@@ -1,4 +1,4 @@
-#define PREFIX GRAD
+#define PREFIX GRAD_MOD_EXTRAS
 #define MAINPREFIX x
 
 #include "script_version.hpp"

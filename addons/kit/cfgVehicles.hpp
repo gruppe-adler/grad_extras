@@ -29,11 +29,11 @@ class CfgVehicles
 		uniformClass = "grad_u_combatUniform_usArmy_OCP";
 		hiddenSelectionsMaterials[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_YesFlag.rvmat"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_YesFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\USArmy\GRAD_U_CombatUniform_USArmy_OCP_co.paa"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\USArmy\GRAD_U_CombatUniform_USArmy_OCP_co.paa"
         };
 	};
 
@@ -44,11 +44,11 @@ class CfgVehicles
 		uniformClass = "grad_u_combatUniform_usArmy_OCP_S";
 		hiddenSelectionsMaterials[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_YesFlag.rvmat"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_YesFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\USArmy\GRAD_U_CombatUniform_USArmy_OCP_v2_co.paa" //TEMP V2
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\USArmy\GRAD_U_CombatUniform_USArmy_OCP_v2_co.paa" //TEMP V2
         };
 		
 	};
@@ -60,11 +60,11 @@ class CfgVehicles
 		uniformClass = "grad_u_combatUniform_usArmy_OCP_T";
 		hiddenSelectionsMaterials[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_YesFlag.rvmat"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_YesFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\USArmy\GRAD_U_CombatUniform_USArmy_OCP_co.paa"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\USArmy\GRAD_U_CombatUniform_USArmy_OCP_co.paa"
         };
 		
 	};
@@ -79,11 +79,11 @@ class grad_soldier_combatUniform_noFlag_Khaki: B_Soldier_F
 		uniformClass = "grad_u_combatUniform_noFlag_Khaki";
 		hiddenSelectionsMaterials[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Khaki_co.paa"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Khaki_co.paa"
         };
 	};
 
@@ -94,11 +94,11 @@ class grad_soldier_combatUniform_noFlag_Khaki: B_Soldier_F
 		uniformClass = "grad_u_combatUniform_noFlag_Khaki_S";
 		hiddenSelectionsMaterials[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Khaki_co.paa"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Khaki_co.paa"
         };
 		
 	};
@@ -110,11 +110,11 @@ class grad_soldier_combatUniform_noFlag_Khaki: B_Soldier_F
 		uniformClass = "grad_u_combatUniform_noFlag_Khaki_T";
 		hiddenSelectionsMaterials[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Khaki_co.paa"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Khaki_co.paa"
         };
 		
 	};
@@ -129,11 +129,11 @@ class grad_soldier_combatUniform_noFlag_Ranger: B_Soldier_F
 		uniformClass = "grad_u_combatUniform_noFlag_Ranger";
 		hiddenSelectionsMaterials[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Ranger_co.paa"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Ranger_co.paa"
         };
 	};
 
@@ -144,11 +144,11 @@ class grad_soldier_combatUniform_noFlag_Ranger: B_Soldier_F
 		uniformClass = "grad_u_combatUniform_noFlag_Ranger_S";
 		hiddenSelectionsMaterials[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Ranger_co.paa" 
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Ranger_co.paa" 
         };
 		
 	};
@@ -160,11 +160,11 @@ class grad_soldier_combatUniform_noFlag_Ranger: B_Soldier_F
 		uniformClass = "grad_u_combatUniform_noFlag_Ranger_T";
 		hiddenSelectionsMaterials[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Ranger_co.paa"
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Ranger_co.paa"
         };
 		
 	};
@@ -187,11 +187,11 @@ class grad_soldier_combatUniform_noFlag_Ranger: B_Soldier_F
 		uniformClass = "grad_u_combatCasual_khaki_grey";
 		hiddenSelectionsMaterials[]=
         {
-            "","x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
+            "","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatCasual\grad_u_combatCasual_shirt_grey_co.paa","x\grad\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Khaki_co.paa" //2_1 & 2_2 & 2_3
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatCasual\grad_u_combatCasual_shirt_grey_co.paa","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Khaki_co.paa" //2_1 & 2_2 & 2_3
         };
 		
 	};
@@ -206,11 +206,11 @@ class grad_soldier_combatCasual_khaki_white: B_GEN_Soldier_F
 		uniformClass = "grad_u_combatCasual_khaki_white";
 		hiddenSelectionsMaterials[]=
         {
-            "","x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
+            "","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatCasual\grad_u_combatCasual_shirt_white_co.paa","x\grad\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Khaki_co.paa" //2_1 & 2_2 & 2_3
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatCasual\grad_u_combatCasual_shirt_white_co.paa","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_Khaki_co.paa" //2_1 & 2_2 & 2_3
         };
 		
 	};
@@ -225,11 +225,11 @@ class grad_soldier_combatCasual_ranger_grey: B_GEN_Soldier_F
 		uniformClass = "grad_u_combatCasual_ranger_grey";
 		hiddenSelectionsMaterials[]=
         {
-            "","x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
+            "","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatCasual\grad_u_combatCasual_shirt_grey_co.paa","x\grad\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_ranger_co.paa" //2_1 & 2_2 & 2_3
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatCasual\grad_u_combatCasual_shirt_grey_co.paa","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_ranger_co.paa" //2_1 & 2_2 & 2_3
         };
 		
 	};
@@ -244,11 +244,11 @@ class grad_soldier_combatCasual_ranger_white: B_GEN_Soldier_F
 		uniformClass = "grad_u_combatCasual_ranger_white";
 		hiddenSelectionsMaterials[]=
         {
-            "","x\grad\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
+            "","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\GRAD_U_CombatUniform_noFlag.rvmat"
         };
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatCasual\grad_u_combatCasual_shirt_white_co.paa","x\grad\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_ranger_co.paa" //2_1 & 2_2 & 2_3
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatCasual\grad_u_combatCasual_shirt_white_co.paa","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatUniform\noFlag\GRAD_U_CombatUniform_noFlag_ranger_co.paa" //2_1 & 2_2 & 2_3
         };
 		
 	};
@@ -272,7 +272,7 @@ class grad_soldier_combatFatigues_khaki_white: I_E_Uniform_01_tanktop_F
 		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_tanktop_white_co.paa","x\grad\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_khaki_co.paa","\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa" //2_1 & 2_2 & 2_3
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_tanktop_white_co.paa","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_khaki_co.paa","\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa" //2_1 & 2_2 & 2_3
         };
 		
 	};
@@ -290,7 +290,7 @@ class grad_soldier_combatFatigues_khaki_telnyashka: I_E_Uniform_01_tanktop_F
 		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_tanktop_telnyashka_co.paa","x\grad\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_khaki_co.paa","\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa" //2_1 & 2_2 & 2_3
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_tanktop_telnyashka_co.paa","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_khaki_co.paa","\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa" //2_1 & 2_2 & 2_3
         };
 		
 	};
@@ -308,7 +308,7 @@ class grad_soldier_combatFatigues_khaki_black: I_E_Uniform_01_tanktop_F
 		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_tanktop_black_co.paa","x\grad\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_khaki_co.paa","\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa" //2_1 & 2_2 & 2_3
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_tanktop_black_co.paa","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_khaki_co.paa","\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa" //2_1 & 2_2 & 2_3
         };
 		
 	};
@@ -325,7 +325,7 @@ class grad_soldier_combatFatigues_green_white: I_E_Uniform_01_tanktop_F
 		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_tanktop_white_co.paa","x\grad\addons\kit\data\uniforms\combatFatigues\grad_u_combatFatigues_green_co.paa","\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa" //2_1 & 2_2 & 2_3
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_tanktop_white_co.paa","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatFatigues\grad_u_combatFatigues_green_co.paa","\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa" //2_1 & 2_2 & 2_3
         };
 		
 	};
@@ -342,7 +342,7 @@ class grad_soldier_combatFatigues_green_telnyashka: I_E_Uniform_01_tanktop_F
 		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_tanktop_telnyashka_co.paa","x\grad\addons\kit\data\uniforms\combatFatigues\grad_u_combatFatigues_green_co.paa","\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa" //2_1 & 2_2 & 2_3
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_tanktop_telnyashka_co.paa","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatFatigues\grad_u_combatFatigues_green_co.paa","\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa" //2_1 & 2_2 & 2_3
         };
 		
 	};
@@ -359,7 +359,7 @@ class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F
 		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
 		hiddenSelectionsTextures[]=
         {
-            "x\grad\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_tanktop_black_co.paa","x\grad\addons\kit\data\uniforms\combatFatigues\grad_u_combatFatigues_green_co.paa","\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa" //2_1 & 2_2 & 2_3
+            "x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatFatigues\grad_u_combatfatigues_tanktop_black_co.paa","x\GRAD_MOD_EXTRAS\addons\kit\data\uniforms\combatFatigues\grad_u_combatFatigues_green_co.paa","\A3\Characters_F_Enoch\Uniforms\Data\I_E_Soldier_01_gloves_black_CO.paa" //2_1 & 2_2 & 2_3
         };
 		
 	};
@@ -370,7 +370,7 @@ class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F
 		displayName = "RT-1523G (ASIP) Ranger";
 		descriptionShort = "";
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"x\grad\addons\kit\data\bags\tfar_rt1523g\grad_clf_nicecomm2_ranger_co.paa"};
+		hiddenSelectionsTextures[] = {"x\GRAD_MOD_EXTRAS\addons\kit\data\bags\tfar_rt1523g\grad_clf_nicecomm2_ranger_co.paa"};
 	};
 
 
@@ -381,7 +381,7 @@ class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F
 		displayName = "Kitbag (Black)";
 		hiddenSelectionsTextures[] =
 		{
-			"x\grad\addons\kit\data\bags\kitbag\grad_kitbag_black_co.paa"
+			"x\GRAD_MOD_EXTRAS\addons\kit\data\bags\kitbag\grad_kitbag_black_co.paa"
 		};
 	};
 
@@ -392,7 +392,7 @@ class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F
 		displayName = "Kitbag (Black, Medical)";
 		hiddenSelectionsTextures[] =
 		{
-			"x\grad\addons\kit\data\bags\kitbag\grad_kitbag_black_medic_co.paa"
+			"x\GRAD_MOD_EXTRAS\addons\kit\data\bags\kitbag\grad_kitbag_black_medic_co.paa"
 		};
 	};
 	
@@ -403,7 +403,7 @@ class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F
 		displayName = "Kitbag (Tan, Medical)";
 		hiddenSelectionsTextures[] =
 		{
-			"x\grad\addons\kit\data\bags\kitbag\grad_kitbag_tan_medic_co.paa"
+			"x\GRAD_MOD_EXTRAS\addons\kit\data\bags\kitbag\grad_kitbag_tan_medic_co.paa"
 		};
 	};
 	
@@ -414,7 +414,7 @@ class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F
 		displayName = "Kitbag (Sage, Medical)";
 		hiddenSelectionsTextures[] =
 		{
-			"x\grad\addons\kit\data\bags\kitbag\grad_kitbag_sgg_medic_co.paa"
+			"x\GRAD_MOD_EXTRAS\addons\kit\data\bags\kitbag\grad_kitbag_sgg_medic_co.paa"
 		};
 	};
 	
@@ -425,7 +425,7 @@ class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F
 		displayName = "Kitbag (Green, Medical)";
 		hiddenSelectionsTextures[] =
 		{
-			"x\grad\addons\kit\data\bags\kitbag\grad_kitbag_rgr_medic_co.paa"
+			"x\GRAD_MOD_EXTRAS\addons\kit\data\bags\kitbag\grad_kitbag_rgr_medic_co.paa"
 		};
 	};
 	
@@ -436,7 +436,7 @@ class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F
 		displayName = "Kitbag (Coyote, Medical)";
 		hiddenSelectionsTextures[] =
 		{
-			"x\grad\addons\kit\data\bags\kitbag\grad_kitbag_cbr_medic_co.paa"
+			"x\GRAD_MOD_EXTRAS\addons\kit\data\bags\kitbag\grad_kitbag_cbr_medic_co.paa"
 		};
 	};
 	
@@ -447,7 +447,7 @@ class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F
 		displayName = "Messenger Bag (Coyote, Medical) [LoW DLC]";
 		hiddenSelectionsTextures[] =
 		{
-			"x\grad\addons\kit\data\bags\messenger\grad_dlc_low_messenger_coyote_medic_co.paa"
+			"x\GRAD_MOD_EXTRAS\addons\kit\data\bags\messenger\grad_dlc_low_messenger_coyote_medic_co.paa"
 		};
 	};
 	class grad_dlc_low_messenger_black_medic: B_Messenger_Black_F
@@ -457,7 +457,7 @@ class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F
 	displayName = "Messenger Bag (Black, Medical) [LoW DLC]";
 		hiddenSelectionsTextures[] =
 		{
-			"x\grad\addons\kit\data\bags\messenger\grad_dlc_low_messenger_black_medic_co.paa"
+			"x\GRAD_MOD_EXTRAS\addons\kit\data\bags\messenger\grad_dlc_low_messenger_black_medic_co.paa"
 		};
 	};
 	class grad_dlc_low_messenger_olive_medic: B_Messenger_Olive_F
@@ -467,7 +467,7 @@ class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F
 		displayName = "Messenger Bag (Olive, Medical) [LoW DLC]";
 		hiddenSelectionsTextures[] =
 		{
-			"x\grad\addons\kit\data\bags\messenger\grad_dlc_low_messenger_olive_medic_co.paa"
+			"x\GRAD_MOD_EXTRAS\addons\kit\data\bags\messenger\grad_dlc_low_messenger_olive_medic_co.paa"
 		};
 	};
 	
@@ -479,7 +479,7 @@ class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F
 		displayName = "Messenger Bag (Medical) [LoW DLC]";
 		hiddenSelectionsTextures[] =
 		{
-			"x\grad\addons\kit\data\bags\messenger\grad_dlc_low_messenger_medic_co.paa"
+			"x\GRAD_MOD_EXTRAS\addons\kit\data\bags\messenger\grad_dlc_low_messenger_medic_co.paa"
 		};
 	};
 	
