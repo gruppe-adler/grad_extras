@@ -10,30 +10,8 @@ class CfgPatches {
     };
 };
 class CfgVehicles {
-    /*extern*/ class Air;
 
-    class Plane: Air {
-        /*extern*/ class HitPoints;
-    };
-
-    class Plane_Base_F: Plane {
-        /*extern*/ class NewTurret;
-        /*extern*/ class Turrets;
-        /*extern*/ class ViewPilot;
-        /*extern*/ class ViewGunner;
-        /*extern*/ class AnimationSources;
-
-        class HitPoints: HitPoints {
-            /*extern*/ class HitHull;
-        };
-    };
-
-    class Plane_CAS_01_base_F: Plane_Base_F {
-        /*extern*/ class EventHandlers;
-    };
-
-    class RHS_C130J_Base: Plane_Base_F {
-    };
+    class RHS_C130J_Base;
 
     class RHS_C130J: RHS_C130J_Base {
         
