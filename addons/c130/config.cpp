@@ -4,7 +4,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = 1.320000;
-        requiredAddons[] = {"A3_Air_F", "A3_Air_F_Beta", "A3_Air_F_EPC_Plane_CAS_01", "A3_Air_F_EPB_Heli_Light_03", "A3_CargoPoses_F", "RHS_C130J_Base"};
+        requiredAddons[] = {"rhsusf_c_a2port_air"};
         name = "RHSUSF c130 sound range fix";
         author = "nomisum";
     };
