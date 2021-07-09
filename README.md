@@ -22,7 +22,6 @@ We're using [HEMTT](https://github.com/synixebrett/HEMTT).
 - Commit your changes
 - Create tag on GitHub
 - NO NEED to upload the built mod. A GitHub Action workflow will take care of that
-- upload your build
 
 ### Building
 On Linux:

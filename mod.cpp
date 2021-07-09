@@ -7,4 +7,4 @@ description = "Gruppe Adler Extras";
 logo = "Adler_64.paa";
 logoOver = "Adler_w_64.paa";
 tooltip = "Gruppe Adler Extras";
-overview = "Gruppe Adler Extras that have RHS or TFAR dependencies.";
+overview = "Gruppe Adler Extras is a collection of Gruppe Adler original addons that add new functionality or modify and improve existing functionality to suit our Arma gameplay. The main difference to <t href='https://github.com/gruppe-adler/grad_mod'>Gruppe Adler Mod</t> is that addons included in this mod can have additional dependencies (other than CBA / ACE)";
