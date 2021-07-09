@@ -2,13 +2,14 @@
 
 class CfgPatches {
     class ADDON {
-        author = "$STR_grad_Author";
         name = QUOTE(ADDON);
-        url = "$STR_grad_URL";
+        author = "$STR_GRAD_EXTRAS_AUTHOR";
+        authors[] = {"McDiod"};
+        url = "$STR_GRAD_EXTRAS_URL";
+        requiredVersion = 1.0;
+        requiredAddons[] = {"cba_main"};
+        VERSION_CONFIG;
         units[] = {};
         weapons[] = {};
-        requiredAddons[] = {"cba_main","ace_main"};
-        VERSION_CONFIG;
-        authors[] = {"McDiod"};
     };
 };
