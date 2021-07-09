@@ -7,7 +7,7 @@ class CfgPatches {
         authors[] = {"McDiod"};
         url = "$STR_GRAD_EXTRAS_URL";
         requiredVersion = 1.0;
-        requiredAddons[] = {"cba_main"};
+        requiredAddons[] = {"cba_main", "ace_main"};
         VERSION_CONFIG;
         units[] = {};
         weapons[] = {};
