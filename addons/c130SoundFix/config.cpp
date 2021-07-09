@@ -18,7 +18,7 @@ class CfgVehicles {
     class RHS_C130J_Base;
 
     class RHS_C130J: RHS_C130J_Base {
-        
+
         class Sounds {
 
             class EngineLowOut {

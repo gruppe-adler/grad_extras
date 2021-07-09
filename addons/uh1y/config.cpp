@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 class CfgPatches {
-	class ADDON {
+    class ADDON {
         name = QUOTE(ADDON);
         author = "$STR_GRAD_EXTRAS_AUTHOR";
         authors[] = {"nomisum"};
@@ -11,13 +11,13 @@ class CfgPatches {
         VERSION_CONFIG;
         units[] = {};
         weapons[] = {};
-	};
+    };
 };
 
 class CfgVehicles {
     class RHS_UH1_Base;
 
-	class RHS_UH1Y_base: RHS_UH1_Base {
+    class RHS_UH1Y_base: RHS_UH1_Base {
         class Sounds {
             class EngineExt {
                 sound[] = {"rhsusf\addons\rhsusf_a2port_air2\sounds\ah1\ext\ext-ah1z-engine-01", 3.262278, 1, 800};

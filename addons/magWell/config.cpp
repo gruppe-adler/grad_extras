@@ -1,8 +1,8 @@
 #include "script_component.hpp"
 
 class CfgPatches {
-	class ADDON {
-		name = QUOTE(ADDON);
+    class ADDON {
+        name = QUOTE(ADDON);
         author = "$STR_GRAD_EXTRAS_AUTHOR";
         authors[] = {"Salbei"};
         url = "$STR_GRAD_EXTRAS_URL";
@@ -11,7 +11,7 @@ class CfgPatches {
         VERSION_CONFIG;
         units[] = {};
         weapons[] = {};
-	};
+    };
 };
 
 
