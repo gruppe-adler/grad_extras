@@ -23,6 +23,10 @@ class CfgPatches {
 	};
 };
 
+#define SCOPE_WIP 1
+
 #include "CfgVehicles.hpp"
 #include "CfgUnitInsignia.hpp"
 #include "CfgWeapons.hpp"
+
+#undef SCOPE_WIP
