@@ -11,7 +11,7 @@ class CfgVehicles
 	class grad_extras_kit_soldier_combatUniform_usArmy_OCP: B_Soldier_F {
 		author = "Synch";
 		scope = 1;
-		uniformClass = "grad_u_combatUniform_usArmy_OCP";
+		uniformClass = "grad_extras_kit_u_combatUniform_usArmy_OCP";
 		hiddenSelectionsMaterials[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\CombatUniform_YesFlag.rvmat"};
 		hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\USArmy\CombatUniform_USArmy_OCP_co.paa"};
 	};
@@ -19,7 +19,7 @@ class CfgVehicles
 	class grad_extras_kit_soldier_combatUniform_usArmy_OCP_S: B_Soldier_lite_F {
 		author = "Synch";
 		scope = 1;
-		uniformClass = "grad_u_combatUniform_usArmy_OCP_S";
+		uniformClass = "grad_extras_kit_u_combatUniform_usArmy_OCP_S";
 		hiddenSelectionsMaterials[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\CombatUniform_YesFlag.rvmat"};
 		hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\USArmy\CombatUniform_USArmy_OCP_v2_co.paa"}; //TEMP V2
 	};
@@ -27,7 +27,7 @@ class CfgVehicles
 	class grad_extras_kit_soldier_combatUniform_usArmy_OCP_T: B_soldier_AR_F {
 		author = "Synch";
 		scope = 1;
-		uniformClass = "grad_u_combatUniform_usArmy_OCP_T";
+		uniformClass = "grad_extras_kit_u_combatUniform_usArmy_OCP_T";
 		hiddenSelectionsMaterials[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\CombatUniform_YesFlag.rvmat"};
 		hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\USArmy\CombatUniform_USArmy_OCP_co.paa"};
 	};
@@ -144,7 +144,7 @@ class CfgVehicles
 		author = "Synch";
 		scope = 1;
 		modelSides[] = {1,2};
-		uniformClass = "grad_u_combatFatigues_khaki_white";
+		uniformClass = "grad_extras_kit_u_combatFatigues_khaki_white";
 		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
 		hiddenSelectionsTextures[] = {
             "x\grad_extras\addons\kit\data\uniforms\combatFatigues\tanktop_white_co.paa",
@@ -157,7 +157,7 @@ class CfgVehicles
 		author = "Synch";
 		scope = 1;
 		modelSides[] = {1,2};
-		uniformClass = "grad_u_combatFatigues_khaki_telnyashka";
+		uniformClass = "grad_extras_kit_u_combatFatigues_khaki_telnyashka";
 		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
 		hiddenSelectionsTextures[] = {
             "x\grad_extras\addons\kit\data\uniforms\combatFatigues\tanktop_telnyashka_co.paa",
@@ -170,7 +170,7 @@ class CfgVehicles
 		author = "Synch";
 		scope = 1;
 		modelSides[] = {1,2};
-		uniformClass = "grad_u_combatFatigues_khaki_black";
+		uniformClass = "grad_extras_kit_u_combatFatigues_khaki_black";
 		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
 		hiddenSelectionsTextures[] = {
             "x\grad_extras\addons\kit\data\uniforms\combatFatigues\tanktop_black_co.paa",
@@ -183,7 +183,7 @@ class CfgVehicles
 		author = "Synch";
 		scope = 1;
 		modelSides[] = {1,2};
-		uniformClass = "grad_u_combatFatigues_green_white";
+		uniformClass = "grad_extras_kit_u_combatFatigues_green_white";
 		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
 		hiddenSelectionsTextures[] = {
             "x\grad_extras\addons\kit\data\uniforms\combatFatigues\tanktop_white_co.paa",
@@ -196,7 +196,7 @@ class CfgVehicles
 		author = "Synch";
 		scope = 1;
 		modelSides[] = {1,2};
-		uniformClass = "grad_u_combatFatigues_green_telnyashka";
+		uniformClass = "grad_extras_kit_u_combatFatigues_green_telnyashka";
 		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
 		hiddenSelectionsTextures[] = {
             "x\grad_extras\addons\kit\data\uniforms\combatFatigues\tanktop_telnyashka_co.paa",
@@ -209,7 +209,7 @@ class CfgVehicles
 		author = "Synch";
 		scope = 1;
 		modelSides[] = {1,2};
-		uniformClass = "grad_u_combatFatigues_green_black";
+		uniformClass = "grad_extras_kit_u_combatFatigues_green_black";
 		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
 		hiddenSelectionsTextures[] = {
             "x\grad_extras\addons\kit\data\uniforms\combatFatigues\tanktop_black_co.paa",

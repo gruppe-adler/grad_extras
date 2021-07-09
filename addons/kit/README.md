@@ -41,19 +41,19 @@ Adds multiple retextures for vanilla uniforms, vests and backpacks as well as re
 ## Uniforms (WIP)
 | Display Name | Classname |
 |:--- |:--- |
-| Combat Uniform (OCP) [US Army] | `grad_u_combatUniform_usArmy_OCP` |
-| Combat Uniform (OCP, Rolled-up) [US Army] | `grad_u_combatUniform_usArmy_OCP_S` |
-| Combat Uniform (OCP, Tee) [US Army] | `grad_u_combatUniform_usArmy_OCP_T` |
-| Combat Fatigues (Khaki, White) | `grad_u_combatFatigues_khaki_white` |
-| Combat Fatigues (Khaki, Telnyashka) | `grad_u_combatFatigues_khaki_telnyashka` |
-| Combat Fatigues (Khaki, Black) | `grad_u_combatFatigues_khaki_black` |
-| Combat Fatigues (Green, White) | `grad_u_combatFatigues_green_white` |
-| Combat Fatigues (Green, Telnyashka) | `grad_u_combatFatigues_green_telnyashka` |
-| Combat Fatigues (Green, Black) | `grad_u_combatFatigues_green_black` |
+| Combat Uniform (OCP) [US Army] | `grad_extras_kit_u_combatUniform_usArmy_OCP` |
+| Combat Uniform (OCP, Rolled-up) [US Army] | `grad_extras_kit_u_combatUniform_usArmy_OCP_S` |
+| Combat Uniform (OCP, Tee) [US Army] | `grad_extras_kit_u_combatUniform_usArmy_OCP_T` |
+| Combat Fatigues (Khaki, White) | `grad_extras_kit_u_combatFatigues_khaki_white` |
+| Combat Fatigues (Khaki, Telnyashka) | `grad_extras_kit_u_combatFatigues_khaki_telnyashka` |
+| Combat Fatigues (Khaki, Black) | `grad_extras_kit_u_combatFatigues_khaki_black` |
+| Combat Fatigues (Green, White) | `grad_extras_kit_u_combatFatigues_green_white` |
+| Combat Fatigues (Green, Telnyashka) | `grad_extras_kit_u_combatFatigues_green_telnyashka` |
+| Combat Fatigues (Green, Black) | `grad_extras_kit_u_combatFatigues_green_black` |
 
 ### Vests (WIP)
 | Display Name | Classname |
 |:--- |:--- |
-| Modular Carrier (Black) | `grad_v_modularCarrier_black` |
-| Modular Carrier Light (Black) | `grad_v_modularCarrier_light_black` |
-| Carrier Light (OCP) | `grad_v_carrierLight_OCP` |
+| Modular Carrier (Black) | `grad_extras_kit_v_modularCarrier_black` |
+| Modular Carrier Light (Black) | `grad_extras_kit_v_modularCarrier_light_black` |
+| Carrier Light (OCP) | `grad_extras_kit_v_carrierLight_OCP` |

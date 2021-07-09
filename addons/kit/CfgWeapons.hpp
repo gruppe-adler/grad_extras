@@ -13,7 +13,7 @@ class CfgWeapons
 
 
     // COMBAT UNIFORM -----------------------------------------------------------------------------
-    class grad_u_combatUniform_usArmy_OCP: U_B_CombatUniform_mcam {
+    class grad_extras_kit_u_combatUniform_usArmy_OCP: U_B_CombatUniform_mcam {
         author = "Synch";
         scope = SCOPE_WIP;
         displayName = "Combat Uniform (OCP) [US Army]";
@@ -22,7 +22,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatUniform_usArmy_OCP_S: U_B_CombatUniform_mcam {
+    class grad_extras_kit_u_combatUniform_usArmy_OCP_S: U_B_CombatUniform_mcam {
         author = "Synch";
         scope = SCOPE_WIP;
         displayName = "Combat Uniform (OCP, Rolled-up) [US Army]";
@@ -31,7 +31,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatUniform_usArmy_OCP_T: U_B_CombatUniform_mcam {
+    class grad_extras_kit_u_combatUniform_usArmy_OCP_T: U_B_CombatUniform_mcam {
         author = "Synch";
         scope = SCOPE_WIP;
         displayName = "Combat Uniform (OCP, Tee) [US Army]";
@@ -124,7 +124,7 @@ class CfgWeapons
 
 
     // COMBAT FATIGUES ----------------------------------------------------------------------------
-    class grad_u_combatFatigues_khaki_white: U_I_E_Uniform_01_tanktop_F {
+    class grad_extras_kit_u_combatFatigues_khaki_white: U_I_E_Uniform_01_tanktop_F {
         author = "Synch";
         scope = SCOPE_WIP;
         displayName = "Combat Fatigues (Khaki, White)";
@@ -133,7 +133,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatFatigues_khaki_telnyashka: U_I_E_Uniform_01_tanktop_F {
+    class grad_extras_kit_u_combatFatigues_khaki_telnyashka: U_I_E_Uniform_01_tanktop_F {
         author = "Synch";
         scope = SCOPE_WIP;
         displayName = "Combat Fatigues (Khaki, Telnyashka)";
@@ -142,7 +142,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatFatigues_khaki_black: U_I_E_Uniform_01_tanktop_F {
+    class grad_extras_kit_u_combatFatigues_khaki_black: U_I_E_Uniform_01_tanktop_F {
         author = "Synch";
         scope = SCOPE_WIP;
         displayName = "Combat Fatigues (Khaki, Black)";
@@ -151,7 +151,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatFatigues_green_white: U_I_E_Uniform_01_tanktop_F {
+    class grad_extras_kit_u_combatFatigues_green_white: U_I_E_Uniform_01_tanktop_F {
         author = "Synch";
         scope = SCOPE_WIP;
         displayName = "Combat Fatigues (Green, White)";
@@ -160,7 +160,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatFatigues_green_telnyashka: U_I_E_Uniform_01_tanktop_F {
+    class grad_extras_kit_u_combatFatigues_green_telnyashka: U_I_E_Uniform_01_tanktop_F {
         author = "Synch";
         scope = SCOPE_WIP;
         displayName = "Combat Fatigues (Green, Telnyashka)";
@@ -169,7 +169,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatFatigues_green_black: U_I_E_Uniform_01_tanktop_F {
+    class grad_extras_kit_u_combatFatigues_green_black: U_I_E_Uniform_01_tanktop_F {
         author = "Synch";
         scope = SCOPE_WIP;
         displayName = "Combat Fatigues (Green, Black)";
@@ -195,21 +195,21 @@ class CfgWeapons
         class ItemInfo;
     };
 
-    class grad_v_carrierLight_OCP: V_PlateCarrier1_blk {
+    class grad_extras_kit_v_carrierLight_OCP: V_PlateCarrier1_blk {
         author = "Synch";
         scope = SCOPE_WIP;
         displayName = "Carrier Light (OCP)";
         hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\vests\carrierLight\OCP_co.paa"};
     };
 
-    class grad_v_modularCarrier_light_black: V_CarrierRigKBT_01_light_Olive_F {
+    class grad_extras_kit_v_modularCarrier_light_black: V_CarrierRigKBT_01_light_Olive_F {
         author = "Synch";
         scope = SCOPE_WIP;
         displayName = "Modular Carrier Light (Black)";
         hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\vests\modularCarrier\black_co.paa"};
     };
 
-    class grad_v_modularCarrier_black: V_CarrierRigKBT_01_Olive_F {
+    class grad_extras_kit_v_modularCarrier_black: V_CarrierRigKBT_01_Olive_F {
         author = "Synch";
         scope = SCOPE_WIP;
         displayName = "Modular Carrier (Black)";
