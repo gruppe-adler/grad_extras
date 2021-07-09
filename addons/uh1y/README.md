@@ -1,7 +1,8 @@
-### UH-1Y Searchlight
-
+### `uh1y`
 Enables rotating searchlight and increases brightness on RHS UH-1Y.
 
-#### Maintainer(s)
+## Dependencies
+- [RHSUSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)
 
-* nomisum
+## Maintainer(s)
+- nomisum
