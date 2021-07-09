@@ -1,12 +1,16 @@
-class CfgPatches {
+#include "script_component.hpp"
 
-    class RHS_US_A2_AirImport {
+class CfgPatches {
+    class ADDON {
+        name = QUOTE(ADDON);
+        author = "$STR_GRAD_EXTRAS_AUTHOR";
+        authors[] = {"nomisum"};
+        url = "$STR_GRAD_EXTRAS_URL";
+        requiredVersion = 1.32;
+        requiredAddons[] = {QMAINPATCH, "rhsusf_c_airweapons"};
+        VERSION_CONFIG;
         units[] = {};
         weapons[] = {};
-        requiredVersion = 1.320000;
-        requiredAddons[] = {"rhsusf_c_airweapons"};
-        name = "RHSUSF c130 sound range fix";
-        author = "nomisum";
     };
 };
 class CfgVehicles {
