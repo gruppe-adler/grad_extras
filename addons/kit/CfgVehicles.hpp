@@ -8,7 +8,7 @@ class CfgVehicles
 
 
     // COMBAT UNIFORM -----------------------------------------------------------------------------
-	class grad_soldier_combatUniform_usArmy_OCP: B_Soldier_F {
+	class grad_extras_kit_soldier_combatUniform_usArmy_OCP: B_Soldier_F {
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatUniform_usArmy_OCP";
@@ -16,7 +16,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\USArmy\CombatUniform_USArmy_OCP_co.paa"};
 	};
 
-	class grad_soldier_combatUniform_usArmy_OCP_S: B_Soldier_lite_F {
+	class grad_extras_kit_soldier_combatUniform_usArmy_OCP_S: B_Soldier_lite_F {
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatUniform_usArmy_OCP_S";
@@ -24,7 +24,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\USArmy\CombatUniform_USArmy_OCP_v2_co.paa"}; //TEMP V2
 	};
 
-	class grad_soldier_combatUniform_usArmy_OCP_T: B_soldier_AR_F {
+	class grad_extras_kit_soldier_combatUniform_usArmy_OCP_T: B_soldier_AR_F {
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatUniform_usArmy_OCP_T";
@@ -32,7 +32,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\USArmy\CombatUniform_USArmy_OCP_co.paa"};
 	};
 
-	class grad_soldier_combatUniform_noFlag_Khaki: B_Soldier_F {
+	class grad_extras_kit_soldier_combatUniform_noFlag_Khaki: B_Soldier_F {
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatUniform_noFlag_Khaki";
@@ -40,7 +40,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\noFlag\CombatUniform_noFlag_Khaki_co.paa"};
 	};
 
-	class grad_soldier_combatUniform_noFlag_Khaki_S: B_Soldier_lite_F {
+	class grad_extras_kit_soldier_combatUniform_noFlag_Khaki_S: B_Soldier_lite_F {
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatUniform_noFlag_Khaki_S";
@@ -48,7 +48,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\noFlag\CombatUniform_noFlag_Khaki_co.paa"};
 	};
 
-	class grad_soldier_combatUniform_noFlag_Khaki_T: B_soldier_AR_F {
+	class grad_extras_kit_soldier_combatUniform_noFlag_Khaki_T: B_soldier_AR_F {
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatUniform_noFlag_Khaki_T";
@@ -56,7 +56,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\noFlag\CombatUniform_noFlag_Khaki_co.paa"};
 	};
 
-	class grad_soldier_combatUniform_noFlag_Ranger: B_Soldier_F {
+	class grad_extras_kit_soldier_combatUniform_noFlag_Ranger: B_Soldier_F {
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatUniform_noFlag_Ranger";
@@ -64,7 +64,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\noFlag\CombatUniform_noFlag_Ranger_co.paa"};
 	};
 
-	class grad_soldier_combatUniform_noFlag_Ranger_S: B_Soldier_lite_F {
+	class grad_extras_kit_soldier_combatUniform_noFlag_Ranger_S: B_Soldier_lite_F {
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatUniform_noFlag_Ranger_S";
@@ -72,7 +72,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"x\grad_extras\addons\kit\data\uniforms\combatUniform\noFlag\CombatUniform_noFlag_Ranger_co.paa" };
 	};
 
-	class grad_soldier_combatUniform_noFlag_Ranger_T: B_soldier_AR_F {
+	class grad_extras_kit_soldier_combatUniform_noFlag_Ranger_T: B_soldier_AR_F {
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatUniform_noFlag_Ranger_T";
@@ -82,7 +82,7 @@ class CfgVehicles
 
 
     // COMBAT CASUAL ------------------------------------------------------------------------------
-	class grad_soldier_combatCasual_khaki_grey: B_GEN_Soldier_F {
+	class grad_extras_kit_soldier_combatCasual_khaki_grey: B_GEN_Soldier_F {
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatCasual_khaki_grey";
@@ -96,7 +96,7 @@ class CfgVehicles
         };
 	};
 
-	class grad_soldier_combatCasual_khaki_white: B_GEN_Soldier_F {
+	class grad_extras_kit_soldier_combatCasual_khaki_white: B_GEN_Soldier_F {
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatCasual_khaki_white";
@@ -110,7 +110,7 @@ class CfgVehicles
         };
 	};
 
-	class grad_soldier_combatCasual_ranger_grey: B_GEN_Soldier_F{
+	class grad_extras_kit_soldier_combatCasual_ranger_grey: B_GEN_Soldier_F{
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatCasual_ranger_grey";
@@ -124,7 +124,7 @@ class CfgVehicles
         };
 	};
 
-	class grad_soldier_combatCasual_ranger_white: B_GEN_Soldier_F {
+	class grad_extras_kit_soldier_combatCasual_ranger_white: B_GEN_Soldier_F {
 		author = "Synch";
 		scope = 1;
 		uniformClass = "grad_u_combatCasual_ranger_white";
@@ -140,7 +140,7 @@ class CfgVehicles
 
 
     // COMBAT FATIGUES ----------------------------------------------------------------------------
-	class grad_soldier_combatFatigues_khaki_white: I_E_Uniform_01_tanktop_F {
+	class grad_extras_kit_soldier_combatFatigues_khaki_white: I_E_Uniform_01_tanktop_F {
 		author = "Synch";
 		scope = 1;
 		modelSides[] = {1,2};
@@ -153,7 +153,7 @@ class CfgVehicles
         };
 	};
 
-	class grad_soldier_combatFatigues_khaki_telnyashka: I_E_Uniform_01_tanktop_F {
+	class grad_extras_kit_soldier_combatFatigues_khaki_telnyashka: I_E_Uniform_01_tanktop_F {
 		author = "Synch";
 		scope = 1;
 		modelSides[] = {1,2};
@@ -166,7 +166,7 @@ class CfgVehicles
         };
 	};
 
-	class grad_soldier_combatFatigues_khaki_black: I_E_Uniform_01_tanktop_F {
+	class grad_extras_kit_soldier_combatFatigues_khaki_black: I_E_Uniform_01_tanktop_F {
 		author = "Synch";
 		scope = 1;
 		modelSides[] = {1,2};
@@ -179,7 +179,7 @@ class CfgVehicles
         };
 	};
 
-	class grad_soldier_combatFatigues_green_white: I_E_Uniform_01_tanktop_F	{
+	class grad_extras_kit_soldier_combatFatigues_green_white: I_E_Uniform_01_tanktop_F	{
 		author = "Synch";
 		scope = 1;
 		modelSides[] = {1,2};
@@ -192,7 +192,7 @@ class CfgVehicles
         };
 	};
 
-	class grad_soldier_combatFatigues_green_telnyashka: I_E_Uniform_01_tanktop_F {
+	class grad_extras_kit_soldier_combatFatigues_green_telnyashka: I_E_Uniform_01_tanktop_F {
 		author = "Synch";
 		scope = 1;
 		modelSides[] = {1,2};
@@ -205,7 +205,7 @@ class CfgVehicles
         };
 	};
 
-	class grad_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F {
+	class grad_extras_kit_soldier_combatFatigues_green_black: I_E_Uniform_01_tanktop_F {
 		author = "Synch";
 		scope = 1;
 		modelSides[] = {1,2};

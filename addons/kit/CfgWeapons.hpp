@@ -18,7 +18,7 @@ class CfgWeapons
         scope = SCOPE_WIP;
         displayName = "Combat Uniform (OCP) [US Army]";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatUniform_usArmy_OCP";
+            uniformClass = "grad_extras_kit_soldier_combatUniform_usArmy_OCP";
         };
     };
 
@@ -27,7 +27,7 @@ class CfgWeapons
         scope = SCOPE_WIP;
         displayName = "Combat Uniform (OCP, Rolled-up) [US Army]";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatUniform_usArmy_OCP_S";
+            uniformClass = "grad_extras_kit_soldier_combatUniform_usArmy_OCP_S";
         };
     };
 
@@ -36,7 +36,7 @@ class CfgWeapons
         scope = SCOPE_WIP;
         displayName = "Combat Uniform (OCP, Tee) [US Army]";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatUniform_usArmy_OCP_T";
+            uniformClass = "grad_extras_kit_soldier_combatUniform_usArmy_OCP_T";
         };
     };
 
@@ -44,7 +44,7 @@ class CfgWeapons
         author = "Synch";
         displayName = "Combat Uniform (Khaki)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatUniform_noFlag_Khaki";
+            uniformClass = "grad_extras_kit_soldier_combatUniform_noFlag_Khaki";
         };
     };
 
@@ -52,7 +52,7 @@ class CfgWeapons
         author = "Synch";
         displayName = "Combat Uniform (Khaki, Rolled-up)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatUniform_noFlag_Khaki_S";
+            uniformClass = "grad_extras_kit_soldier_combatUniform_noFlag_Khaki_S";
         };
     };
 
@@ -60,7 +60,7 @@ class CfgWeapons
         author = "Synch";
         displayName = "Combat Uniform (Khaki, Tee)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatUniform_noFlag_Khaki_T";
+            uniformClass = "grad_extras_kit_soldier_combatUniform_noFlag_Khaki_T";
         };
     };
 
@@ -68,7 +68,7 @@ class CfgWeapons
         author = "Synch";
         displayName = "Combat Uniform (Ranger Green)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatUniform_noFlag_Ranger";
+            uniformClass = "grad_extras_kit_soldier_combatUniform_noFlag_Ranger";
         };
     };
 
@@ -76,7 +76,7 @@ class CfgWeapons
         author = "Synch";
         displayName = "Combat Uniform (Ranger Green, Rolled-up)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatUniform_noFlag_Ranger_S";
+            uniformClass = "grad_extras_kit_soldier_combatUniform_noFlag_Ranger_S";
         };
     };
 
@@ -84,7 +84,7 @@ class CfgWeapons
         author = "Synch";
         displayName = "Combat Uniform (Ranger Green, Tee)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatUniform_noFlag_Ranger_T";
+            uniformClass = "grad_extras_kit_soldier_combatUniform_noFlag_Ranger_T";
         };
     };
 
@@ -94,7 +94,7 @@ class CfgWeapons
         author = "Synch";
         displayName = "Combat Casual (Khaki, Grey)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatCasual_khaki_grey";
+            uniformClass = "grad_extras_kit_soldier_combatCasual_khaki_grey";
         };
     };
 
@@ -102,7 +102,7 @@ class CfgWeapons
         author = "Synch";
         displayName = "Combat Casual (Khaki, White)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatCasual_khaki_white";
+            uniformClass = "grad_extras_kit_soldier_combatCasual_khaki_white";
         };
     };
 
@@ -110,7 +110,7 @@ class CfgWeapons
         author = "Synch";
         displayName = "Combat Casual (Ranger, Grey)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatCasual_ranger_grey";
+            uniformClass = "grad_extras_kit_soldier_combatCasual_ranger_grey";
         };
     };
 
@@ -118,7 +118,7 @@ class CfgWeapons
         author = "Synch";
         displayName = "Combat Casual (Ranger, White)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatCasual_ranger_white";
+            uniformClass = "grad_extras_kit_soldier_combatCasual_ranger_white";
         };
     };
 
@@ -129,7 +129,7 @@ class CfgWeapons
         scope = SCOPE_WIP;
         displayName = "Combat Fatigues (Khaki, White)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatFatigues_khaki_white";
+            uniformClass = "grad_extras_kit_soldier_combatFatigues_khaki_white";
         };
     };
 
@@ -138,7 +138,7 @@ class CfgWeapons
         scope = SCOPE_WIP;
         displayName = "Combat Fatigues (Khaki, Telnyashka)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatFatigues_khaki_telnyashka";
+            uniformClass = "grad_extras_kit_soldier_combatFatigues_khaki_telnyashka";
         };
     };
 
@@ -147,7 +147,7 @@ class CfgWeapons
         scope = SCOPE_WIP;
         displayName = "Combat Fatigues (Khaki, Black)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatFatigues_khaki_black";
+            uniformClass = "grad_extras_kit_soldier_combatFatigues_khaki_black";
         };
     };
 
@@ -156,7 +156,7 @@ class CfgWeapons
         scope = SCOPE_WIP;
         displayName = "Combat Fatigues (Green, White)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatFatigues_green_white";
+            uniformClass = "grad_extras_kit_soldier_combatFatigues_green_white";
         };
     };
 
@@ -165,7 +165,7 @@ class CfgWeapons
         scope = SCOPE_WIP;
         displayName = "Combat Fatigues (Green, Telnyashka)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatFatigues_green_telnyashka";
+            uniformClass = "grad_extras_kit_soldier_combatFatigues_green_telnyashka";
         };
     };
 
@@ -174,7 +174,7 @@ class CfgWeapons
         scope = SCOPE_WIP;
         displayName = "Combat Fatigues (Green, Black)";
         class ItemInfo: ItemInfo {
-            uniformClass = "grad_soldier_combatFatigues_green_black";
+            uniformClass = "grad_extras_kit_soldier_combatFatigues_green_black";
         };
     };
 
