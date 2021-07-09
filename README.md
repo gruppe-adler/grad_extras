@@ -1,4 +1,4 @@
-# Gruppe Adler Mod
+# Gruppe Adler Extras
 
 [![GitHub tag](https://img.shields.io/github/tag/gruppe-adler/grad_extras.svg)](https://github.com/gruppe-adler/grad_extras/releases)
 ![build](https://github.com/gruppe-adler/grad_extras/workflows/CI/badge.svg)
