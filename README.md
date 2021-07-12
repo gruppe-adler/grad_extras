@@ -30,6 +30,5 @@ hemtt build --release
 ```
 On Windows:
 ```
-hemtt.exe build --release
+start build-hemtt.bat 
 ```
-
