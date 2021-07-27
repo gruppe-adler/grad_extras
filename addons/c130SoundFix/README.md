@@ -1,5 +1,5 @@
-### `uh1y`
-Enables rotating searchlight and increases brightness on RHS UH-1Y.
+# `c130soundFix`
+Increases sound range of RHS C130 to realistic dimensions (> 1000m)
 
 ## Dependencies
 - [RHSUSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)

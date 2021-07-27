@@ -1,19 +1,32 @@
 #include "script_component.hpp"
 
 class CfgPatches {
-	class ADDON {
-		author = "$STR_grad_Author";
-		name = QUOTE(ADDON);
-		url = "$STR_grad_URL";
-		requiredVersion = 1.0;
-		requiredAddons[] = { QMAINPATCH , "task_force_radio","A3_weapons_f"};
-		units[] = {};
-		weapons[] = {};
-		VERSION_CONFIG;
+    class ADDON {
+        name = QUOTE(ADDON);
+        author = "$STR_GRAD_EXTRAS_AUTHOR";
         authors[] = {"Synch"};
-	};
+        url = "$STR_GRAD_EXTRAS_URL";
+        requiredVersion = 1.0;
+        requiredAddons[] = {
+            QMAINPATCH,
+            "A3_Characters_F",
+            "A3_Characters_F_Exp",
+            "A3_Characters_F_Enoch",
+            "A3_Characters_F_Enoch_Vests",
+            "A3_Weapons_F_Ammoboxes",
+            "A3_Supplies_F_Orange_Bags",
+            "tfar_backpacks"
+        };
+        VERSION_CONFIG;
+        units[] = {};
+        weapons[] = {};
+    };
 };
 
-#include "cfgVehicles.hpp"
-#include "cfgUnitInsignia.hpp"
-#include "cfgWeapons.hpp"
+#define SCOPE_WIP 1
+
+#include "CfgVehicles.hpp"
+#include "CfgUnitInsignia.hpp"
+#include "CfgWeapons.hpp"
+
+#undef SCOPE_WIP

@@ -7,18 +7,18 @@ if exist a3 (
 mklink /j a3 include\a3
 
 mkdir x
-mkdir x\GRAD_MOD_EXTRAS
-if exist x\GRAD_MOD_EXTRAS\addons (
-  rmdir x\GRAD_MOD_EXTRAS\addons
+mkdir x\grad_extras
+if exist x\grad_extras\addons (
+  rmdir x\grad_extras\addons
 )
-mklink /j x\GRAD_MOD_EXTRAS\addons addons
+mklink /j x\grad_extras\addons addons
 
 hemtt build --force --release
 set BUILD_STATUS=%errorlevel%
 
 rmdir a3
-rmdir x\GRAD_MOD_EXTRAS\addons
-rmdir x\GRAD_MOD_EXTRAS
+rmdir x\grad_extras\addons
+rmdir x\grad_extras
 rmdir x
 
 if %BUILD_STATUS% neq 0 (

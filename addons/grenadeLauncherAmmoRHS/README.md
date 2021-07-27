@@ -1,8 +1,8 @@
-### `uh1y`
-Enables rotating searchlight and increases brightness on RHS UH-1Y.
+# `grenadeLauncherAmmoRHS`
+Decreases bounciness of the RHS 40mm smoke grenades.
 
 ## Dependencies
 - [RHSUSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)
 
 ## Maintainer(s)
-- nomisum
+- Fusselwurm

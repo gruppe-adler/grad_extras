@@ -4,15 +4,14 @@ class CfgPatches {
     class ADDON {
         name = QUOTE(ADDON);
         author = "$STR_GRAD_EXTRAS_AUTHOR";
-        authors[] = {"Salbei"};
+        authors[] = {"Willard"};
         url = "$STR_GRAD_EXTRAS_URL";
         requiredVersion = 1.0;
-        requiredAddons[] = {QMAINPATCH, "gm_core_weapons", "hlcweapons_g3", "hlcweapons_MG3s"};
+        requiredAddons[] = {QMAINPATCH, "a3_weapons_f", "rhs_c_weapons", "rhsusf_c_weapons"};
         VERSION_CONFIG;
         units[] = {};
         weapons[] = {};
     };
 };
 
-
-#include "CfgWeapons.hpp"
+#include "CfgAmmo.hpp"
