@@ -10,8 +10,8 @@ class CfgPatches {
         requiredAddons[] = {QMAINPATCH, "A3_structures_f"};
         VERSION_CONFIG;
         units[] = {
-			"grad_extras_shootHouseDoor"
-		};
+            "grad_extras_shootHouseDoor"
+        };
         weapons[] = {};
     };
 };
