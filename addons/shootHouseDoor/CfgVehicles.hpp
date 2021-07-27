@@ -42,14 +42,14 @@ class CfgVehicles {
             class CloseDoor_1 {
                 displayNameDefault = "<img image='\A3\Ui_f\data\IGUI\Cfg\Actions\open_door_ca.paa' size='2.5' />";
                 displayName = "$STR_DN_OUT_C_DOOR";
-                position = "Door_1_trigger";
+                position = "door_1_trigger";
+                selection = "door_1";
                 priority = 11;
                 radius = 1.75;
                 aiMaxRange = 5.25;
                 onlyForPlayer = 0;
                 condition = "((this animationSourcePhase 'Door_1_sound_source') >= 0.5) && ((this getVariable ['bis_disabled_Door_1', 0]) != 1) && (cameraOn isKindOf 'CAManBase')";
                 statement = "([this, 1, 0] call BIS_fnc_Door)";
-                actionNamedSel = "Door_1_action";
             };
             class OpenDoor_1: CloseDoor_1 {
                 displayNameDefault = "<img image='\A3\Ui_f\data\IGUI\Cfg\Actions\open_door_ca.paa' size='2.5' />";
