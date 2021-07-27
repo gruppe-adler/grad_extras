@@ -40,7 +40,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatUniform_noFlag_Khaki: U_B_CombatUniform_mcam {
+    class grad_extras_kit_u_combatUniform_noFlag_Khaki: U_B_CombatUniform_mcam {
         author = "Synch";
         displayName = "Combat Uniform (Khaki)";
         class ItemInfo: ItemInfo {
@@ -48,7 +48,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatUniform_noFlag_Khaki_S: U_B_CombatUniform_mcam {
+    class grad_extras_kit_u_combatUniform_noFlag_Khaki_S: U_B_CombatUniform_mcam {
         author = "Synch";
         displayName = "Combat Uniform (Khaki, Rolled-up)";
         class ItemInfo: ItemInfo {
@@ -56,7 +56,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatUniform_noFlag_Khaki_T: U_B_CombatUniform_mcam {
+    class grad_extras_kit_u_combatUniform_noFlag_Khaki_T: U_B_CombatUniform_mcam {
         author = "Synch";
         displayName = "Combat Uniform (Khaki, Tee)";
         class ItemInfo: ItemInfo {
@@ -64,7 +64,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatUniform_noFlag_Ranger: U_B_CombatUniform_mcam {
+    class grad_extras_kit_u_combatUniform_noFlag_Ranger: U_B_CombatUniform_mcam {
         author = "Synch";
         displayName = "Combat Uniform (Ranger Green)";
         class ItemInfo: ItemInfo {
@@ -72,7 +72,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatUniform_noFlag_Ranger_S: U_B_CombatUniform_mcam {
+    class grad_extras_kit_u_combatUniform_noFlag_Ranger_S: U_B_CombatUniform_mcam {
         author = "Synch";
         displayName = "Combat Uniform (Ranger Green, Rolled-up)";
         class ItemInfo: ItemInfo {
@@ -80,7 +80,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatUniform_noFlag_Ranger_T: U_B_CombatUniform_mcam {
+    class grad_extras_kit_u_combatUniform_noFlag_Ranger_T: U_B_CombatUniform_mcam {
         author = "Synch";
         displayName = "Combat Uniform (Ranger Green, Tee)";
         class ItemInfo: ItemInfo {
@@ -90,7 +90,7 @@ class CfgWeapons
 
 
     // COMBAT CASUAL ------------------------------------------------------------------------------
-    class grad_u_combatCasual_khaki_grey: U_B_GEN_Soldier_F {
+    class grad_extras_kit_u_combatCasual_khaki_grey: U_B_GEN_Soldier_F {
         author = "Synch";
         displayName = "Combat Casual (Khaki, Grey)";
         class ItemInfo: ItemInfo {
@@ -98,7 +98,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatCasual_khaki_white: U_B_GEN_Soldier_F {
+    class grad_extras_kit_u_combatCasual_khaki_white: U_B_GEN_Soldier_F {
         author = "Synch";
         displayName = "Combat Casual (Khaki, White)";
         class ItemInfo: ItemInfo {
@@ -106,7 +106,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatCasual_ranger_grey: U_B_GEN_Soldier_F {
+    class grad_extras_kit_u_combatCasual_ranger_grey: U_B_GEN_Soldier_F {
         author = "Synch";
         displayName = "Combat Casual (Ranger, Grey)";
         class ItemInfo: ItemInfo {
@@ -114,7 +114,7 @@ class CfgWeapons
         };
     };
 
-    class grad_u_combatCasual_ranger_white: U_B_GEN_Soldier_F {
+    class grad_extras_kit_u_combatCasual_ranger_white: U_B_GEN_Soldier_F {
         author = "Synch";
         displayName = "Combat Casual (Ranger, White)";
         class ItemInfo: ItemInfo {
