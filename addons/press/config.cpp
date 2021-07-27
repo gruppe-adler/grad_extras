@@ -20,8 +20,7 @@ class CfgVehicles {
         class EventHandlers;
     };
 
-    class grad_extras_press_offroad: C_Offroad_01_F
-    {
+    class grad_extras_press_offroad: C_Offroad_01_F {
         displayName = "Offroad (Press)";
         author = "XiviD";
         hiddenSelectionsTextures[] = {"\x\grad_extras\addons\press\data\exterior_press_co.paa","\x\grad_extras\addons\press\data\exterior_press_co.paa"};
