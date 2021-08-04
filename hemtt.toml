@@ -3,9 +3,10 @@ modname = "grad_extras"
 prefix = "grad_extras"
 author = "Gruppe Adler"
 files = [
-    "Adler_64.paa",
-    "Adler_w_64.paa",
-    "Adler_w_2.paa",
+    "logo_active_ca.paa",
+    "logo_ca.paa",
+    "overview_co.paa",
+    "logo_small_ca.paa",
     "mod.cpp",
     "LICENSE",
     "README.md"
