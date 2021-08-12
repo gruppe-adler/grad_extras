@@ -6,8 +6,8 @@
             <German>Gruppe Adler</German>
         </Key>
         <Key ID="STR_GRAD_EXTRAS_URL">
-            <English>https://www.gruppe-adler.de/international/</English>
-            <German>https://www.gruppe-adler.de/</German>
+            <English>https://gruppe-adler.de/en</English>
+            <German>https://gruppe-adler.de</German>
         </Key>
     </Package>
 </Project>
