@@ -11,7 +11,7 @@ Gruppe Adler Extras is a collection of Gruppe Adler original addons that add new
 - TFAR
 - RHS
 - GM
-- NIArms G3 / MG3
+<!-- - NIArms G3 / MG3 -->
 
 ## For Developers
 

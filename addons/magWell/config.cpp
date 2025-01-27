@@ -7,7 +7,7 @@ class CfgPatches {
         authors[] = {"Salbei"};
         url = "$STR_GRAD_EXTRAS_URL";
         requiredVersion = 1.0;
-        requiredAddons[] = {QMAINPATCH, "gm_core_weapons", "hlcweapons_g3", "hlcweapons_MG3s"};
+        requiredAddons[] = {QMAINPATCH, "gm_core_weapons"/*, "hlcweapons_g3", "hlcweapons_MG3s"*/};
         VERSION_CONFIG;
         units[] = {};
         weapons[] = {};
