@@ -13,7 +13,7 @@ jobs:
       uses: gruppe-adler/action-release-with-hemtt@2.2.0
       id: build
     - name: Upload artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: ${{ steps.build.outputs.zip_name }}
         path: ${{ steps.build.outputs.release_path }}
